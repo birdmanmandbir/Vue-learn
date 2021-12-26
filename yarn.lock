@@ -8344,7 +8344,7 @@ vue@^2.2.6, vue@^2.6.11:
 
 vuejs-vr@^1.2.2:
   version "1.2.2"
-  resolved "https://registry.npmmirror.com/vuejs-vr/download/vuejs-vr-1.2.2.tgz#e9a095a7065ebfbe5fba4d29f5ca21f47b75bd16"
+  resolved "https://registry.nlark.com/vuejs-vr/download/vuejs-vr-1.2.2.tgz#e9a095a7065ebfbe5fba4d29f5ca21f47b75bd16"
   integrity sha1-6aCVpwZev75fuk0p9coh9Ht1vRY=
   dependencies:
     three "^0.105.2"
