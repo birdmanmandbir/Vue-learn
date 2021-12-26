@@ -1,16 +1,15 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <Employee />
+    <!-- <img alt="Vue logo" src="./assets/logo.png" /> -->
+    <!-- 路由映射的组件将在这里渲染 -->
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import Employee from './components/Employee.vue'
 export default {
-  name: 'App',
-  components: {Employee}
-}
+  name: "App",
+};
 </script>
 
 <style>
