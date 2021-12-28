@@ -13,7 +13,7 @@ export default {
   components: { Pano },
   data() {
     return {
-      url: "../assets/pano.png",
+      url: "/assets/pano.png",
     //   url: "https://t4.ftcdn.net/jpg/02/09/58/11/360_F_209581186_UIHxT8WvyXZbTbHnNeEu4SFRQ3TdqBHA.jpg",
     };
   },
