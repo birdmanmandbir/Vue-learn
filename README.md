@@ -1,4 +1,10 @@
 # vue-rest
+For vue-vr hello-world page, just do:
+```bash
+yarn
+yarn serve
+# open http://localhost:8080/#/vr in browser
+```
 
 ## Project setup
 ```
